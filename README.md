@@ -20,7 +20,6 @@ A full-featured freelance talent marketplace built using WordPress, HTML, CSS, P
 - Mobile-responsive design
 
 ## 📸 Screenshots
-(Add screenshots here)
 <img width="1920" height="1609" alt="cropped_1 - Home - Radent-min" src="https://github.com/user-attachments/assets/0a3a1372-4e92-476f-ab41-dab55284abb8" />
 <img width="1920" height="1949" alt="Cropped_2 - Project Search - Radent -min" src="https://github.com/user-attachments/assets/e683184a-af1e-4b94-96fb-ac6f7f296ede" />
 <img width="1920" height="2234" alt="cropped_3 - Freelancer Search - Radent-min" src="https://github.com/user-attachments/assets/e13c1349-9abe-4baf-9714-8bc77a4c4b9d" />
